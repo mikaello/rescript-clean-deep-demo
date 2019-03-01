@@ -1,6 +1,6 @@
 # Demo project for bs-clean-deep 
 
-This project is only for testing that the [bs-clean-deep](https://github.com/mikaello/bs-clean-deep) works as expected.
+This project is only for testing that the [bs-clean-deep](https://github.com/mikaello/bs-clean-deep) bindings works as expected.
 
 ## Build
 ```
