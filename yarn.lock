@@ -4,7 +4,7 @@
 
 "bs-clean-deep@https://github.com/mikaello/bs-clean-deep":
   version "0.1.0"
-  resolved "https://github.com/mikaello/bs-clean-deep#ce3a3b7968d3e7e2dbd82fdc2609035614864a25"
+  resolved "https://github.com/mikaello/bs-clean-deep#c70bff08562604a99bff7375053577c367255e37"
   dependencies:
     clean-deep "^3.0.2"
 
