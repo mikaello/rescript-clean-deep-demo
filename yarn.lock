@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"bs-clean-deep@https://github.com/mikaello/bs-clean-deep":
+bs-clean-deep@^0.1.0:
   version "0.1.0"
-  resolved "https://github.com/mikaello/bs-clean-deep#c70bff08562604a99bff7375053577c367255e37"
+  resolved "https://registry.yarnpkg.com/bs-clean-deep/-/bs-clean-deep-0.1.0.tgz#01cfe17d1706cfa1cecb80c7b16b695e2683f758"
+  integrity sha512-W6zbZIHwDUylG4oBNAt+98tkMXOgD3MPCFPnQZdsz1XvXj17cY23vhgTmGON2TbiQc3vvm1bYSo3LjZhIe5PdQ==
   dependencies:
     clean-deep "^3.0.2"
 

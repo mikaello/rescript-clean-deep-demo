@@ -11,6 +11,6 @@
     "bs-platform": "^4.0.18"
   },
   "dependencies": {
-    "bs-clean-deep": "https://github.com/mikaello/bs-clean-deep"
+    "bs-clean-deep": "^0.1.0"
   }
 }
