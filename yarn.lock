@@ -2,17 +2,10 @@
 # yarn lockfile v1
 
 
-bs-clean-deep@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/bs-clean-deep/-/bs-clean-deep-1.0.6.tgz#dcc6febef7c788ace8fd4609a18c5c2f5d3da71d"
-  integrity sha512-TJ5vRrzsojl8um+FzhoD2ITDgNZAFLImk3T17MswXEQqp5JNESjeyCFY2vI3p9jMRRseboOnz8YFOFzZhvYv8Q==
-  dependencies:
-    clean-deep "3.3.0"
-
-clean-deep@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/clean-deep/-/clean-deep-3.3.0.tgz#00509a2cb431fa83fb202aa759534681f0309172"
-  integrity sha512-zblSorO16fXSDnBU9SQay+WL6TLM8Lkh1pKiuspu/Ntgy5BPDXORZKj3F/6fgcBZ7c172Ppy8xWRo7J4D/mNfQ==
+clean-deep@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/clean-deep/-/clean-deep-3.4.0.tgz#c465c4de1003ae13a1a859e6c69366ab96069f75"
+  integrity sha512-Lo78NV5ItJL/jl+B5w0BycAisaieJGXK1qYi/9m4SjR8zbqmrUtO7Yhro40wEShGmmxs/aJLI/A+jNhdkXK8mw==
   dependencies:
     lodash.isempty "^4.4.0"
     lodash.isplainobject "^4.0.6"
@@ -32,6 +25,13 @@ lodash.transform@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.transform/-/lodash.transform-4.6.0.tgz#12306422f63324aed8483d3f38332b5f670547a0"
   integrity sha1-EjBkIvYzJK7YSD0/ODMrX2cFR6A=
+
+rescript-clean-deep@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/rescript-clean-deep/-/rescript-clean-deep-2.0.0.tgz#5de45eb1cc831a5bf4466580d7b7b274288c56d9"
+  integrity sha512-/A3EK0FRgXnLHcHEXuZspjbP7i3ul+GKpArcKRr9ie0vUQa6x0KIxN1RgcE7WpY8jXIHuGnqjAhsDFsNJMo8qg==
+  dependencies:
+    clean-deep "^3.4.0"
 
 rescript@^9.1.4:
   version "9.1.4"

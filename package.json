@@ -1,5 +1,5 @@
 {
-  "name": "bs-clean-deep-demo",
+  "name": "rescript-clean-deep-demo",
   "version": "0.1.0",
   "scripts": {
     "build": "rescript build",
@@ -11,6 +11,6 @@
     "rescript": "^9.1.4"
   },
   "dependencies": {
-    "bs-clean-deep": "^1.0.6"
+    "rescript-clean-deep": "^2.0.0"
   }
 }
