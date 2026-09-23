@@ -1,6 +1,12 @@
 {
-  "extends": [
-    "config:base"
-  ],
-  "dependencyDashboard": false
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>mikaello/renovate-presets"],
+  "dependencyDashboard": false,
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true,
+      "platformAutomerge": true
+    }
+  ]
 }
