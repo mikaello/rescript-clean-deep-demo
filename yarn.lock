@@ -2,35 +2,35 @@
 # yarn lockfile v1
 
 
-"@rescript/darwin-arm64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/darwin-arm64/-/darwin-arm64-12.2.0.tgz#a001e0a20bfb838c093356ca2c194bf5d5a6c1f8"
-  integrity sha512-xc3K/J7Ujl1vPiFY2009mRf3kWRlUe/VZyJWprseKxlcEtUQv89ter7r6pY+YFbtYvA/fcaEncL9CVGEdattAg==
+"@rescript/darwin-arm64@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/darwin-arm64/-/darwin-arm64-12.3.1.tgz#9dabcc966b857e06b46b7b8f079559879da546ba"
+  integrity sha512-pwdnHhuIMH4Y5nuEwBLAMOYvGIcAVgnSZq/DWUNZJWoUr7YZpNkABJp0TFGiyYePT5ld+nvjQ40oI0rKjEWK8w==
 
-"@rescript/darwin-x64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/darwin-x64/-/darwin-x64-12.2.0.tgz#2a767d396ca97a599281e3cfd9f3be24da61774c"
-  integrity sha512-qqcTvnlSeoKkywLjG7cXfYvKZ1e4Gz2kUKcD6SiqDgCqm8TF+spwlFAiM6sloRUOFsc0bpC/0R0B3yr01FCB1A==
+"@rescript/darwin-x64@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/darwin-x64/-/darwin-x64-12.3.1.tgz#ab0d57340c3d99b89e0cdcbeb71a98e90d20d24d"
+  integrity sha512-Eu39cHkzoHyC18BCRqnmZnLgP42c7JhR74UBl6XhaFOzuf63tddOssgTyX9mEihzok2xFBGLpETrCvZN8Qqtkg==
 
-"@rescript/linux-arm64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/linux-arm64/-/linux-arm64-12.2.0.tgz#1c02ac0ef1fbf8daf71adbdbba87a9b7fd8819de"
-  integrity sha512-ODmpG3ji+Nj/8d5yvXkeHlfKkmbw1Q4t1iIjVuNwtmFpz7TiEa7n/sQqoYdE+WzbDX3DoJfmJNbp3Ob7qCUoOg==
+"@rescript/linux-arm64@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/linux-arm64/-/linux-arm64-12.3.1.tgz#d6aba5ac9e5c1cbd62437dbdf84e5c96daf5844e"
+  integrity sha512-Nsk3qfDRrp9b6RI85t0xzrr8LoxwXAI678V7zpQMaRfhltYl+N5fsK66MWx9rSrv6SIWPVSyU8FrJG0MskONwQ==
 
-"@rescript/linux-x64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/linux-x64/-/linux-x64-12.2.0.tgz#0ec7f94edf013b7872f6fbac943b5d6e1b5477e3"
-  integrity sha512-2W9Y9/g19Y4F/subl8yV3T8QBG2oRaP+HciNRcBjptyEdw9LmCKH8+rhWO6sp3E+nZLwoE2IAkwH0WKV3wqlxQ==
+"@rescript/linux-x64@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/linux-x64/-/linux-x64-12.3.1.tgz#5976706f187d04b51001c4af98f25df5deb79921"
+  integrity sha512-CfAJ3q/y/GSwrSJCLdCdyLWWdb7kTZkl2vjC+mSAw3pMqknEyCbt4ukS64Xn8PrqxVGHIs+kdefEphU7dt77xA==
 
-"@rescript/runtime@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/runtime/-/runtime-12.2.0.tgz#7844541adc8368cca2f8df20c0cad501ba68842c"
-  integrity sha512-NwfljDRq1rjFPHUaca1nzFz13xsa9ZGkBkLvMhvVgavJT5+A4rMcLu8XAaVTi/oAhO/tlHf9ZDoOTF1AfyAk9Q==
+"@rescript/runtime@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/runtime/-/runtime-12.3.1.tgz#216df5c465ac591a48169842452df8e07978a16e"
+  integrity sha512-yTM0iTl6owyA37UEtPAZR0A3G1kFffJWb+UE6+rcG/N2kxYQnuSlNDfVvsry7l8O+o/ME6QE7Zt7efjCDGM3xg==
 
-"@rescript/win32-x64@12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@rescript/win32-x64/-/win32-x64-12.2.0.tgz#27b9facb08ceb6d3306f5f85ce428541d0943bf1"
-  integrity sha512-fhf8CBj3p1lkIXPeNko3mVTKQfXXm4BoxJtR1xAXxUn43wDpd8Lox4w8/EPBbbW6C/YFQW6H7rtpY+2AKuNaDA==
+"@rescript/win32-x64@12.3.1":
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/@rescript/win32-x64/-/win32-x64-12.3.1.tgz#724aab0be2c5b47c57d81ac20f8774a9b407b410"
+  integrity sha512-1ffFbw9IJnJmGTNshWzRcG6wQ7GkzOeWxLLrarvxI38p2aYPQKTbVovUraXpw1Jfg2bbWkm8hPMMrFIezI/pkA==
 
 clean-deep@^3.4.0:
   version "3.4.0"
@@ -63,15 +63,15 @@ rescript-clean-deep@2.0.0:
   dependencies:
     clean-deep "^3.4.0"
 
-rescript@12.2.0:
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/rescript/-/rescript-12.2.0.tgz#084c52730398dcf17cdb62f3a10d6b0faf68bbaa"
-  integrity sha512-1Jf2cmNhyx5Mj2vwZ4XXPcXvNSjGj9D1jPBUcoqIOqRpLPo1ch2Ta/7eWh23xAHWHK5ow7BCDyYFjvZSjyjLzg==
+rescript@12.3.1:
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/rescript/-/rescript-12.3.1.tgz#8af392c9f4c9cdcec62f1b3249ad25a81f20bf8f"
+  integrity sha512-Q4y0SQ7EUShiX1ymEG5iOCGzbVSOh7CCLEnQUkq19FX2i64eQ2uEGeMCKFl0AsL7TcK5pS+66QTSP6jf6LSgaA==
   dependencies:
-    "@rescript/runtime" "12.2.0"
+    "@rescript/runtime" "12.3.1"
   optionalDependencies:
-    "@rescript/darwin-arm64" "12.2.0"
-    "@rescript/darwin-x64" "12.2.0"
-    "@rescript/linux-arm64" "12.2.0"
-    "@rescript/linux-x64" "12.2.0"
-    "@rescript/win32-x64" "12.2.0"
+    "@rescript/darwin-arm64" "12.3.1"
+    "@rescript/darwin-x64" "12.3.1"
+    "@rescript/linux-arm64" "12.3.1"
+    "@rescript/linux-x64" "12.3.1"
+    "@rescript/win32-x64" "12.3.1"
